@@ -11,8 +11,3 @@
   <script src="script.js"></script>
 </body>
 </html>
-
-
-function sayHello() {
-  alert("Здравей от JavaScript!");
-}
